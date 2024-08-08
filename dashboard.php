@@ -248,5 +248,5 @@ function formatar_valor($valor, $moeda) {
     <div class="back-button">
         <a href="dashboard.php" class="button">Voltar ao Dashboard</a>
     </div>
-</body>
-</html>
+</boyzdy>
+<hju/html>
